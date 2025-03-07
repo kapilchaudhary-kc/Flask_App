@@ -31,13 +31,13 @@ The server will start at:
 
 Project Structure
 
-Flask_App/
-│── static/                 # CSS
-│── templates/              # HTML Templates
-│── app.py                  # Main Flask App
-│── .gitignore              # Ignored files
-│── README.md               # Documentation
-│── requirements.txt        # Dependencies
+# Flask_App/
+*│── static/                 # CSS
+*│── templates/              # HTML Templates
+*│── app.py                  # Main Flask App
+*│── .gitignore              # Ignored files
+*│── README.md               # Documentation
+*│── requirements.txt        # Dependencies
 
 Contributing
 Want to improve this project? Contributions are welcome!
